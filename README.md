@@ -6,9 +6,11 @@ URLを挿入し、パラメータをいじるだけで簡単!
 
 ### 出力例  
 - パターン1(基本タイプ)
+
 [1]Y.Yokoha “横茶横葉のサイト | 横茶横葉からのお知らせ・ポスト・最新ソフトウェア情報はこちらから”    
 URL https://yokonoha.github.io (2026年7月24日アクセス)  
 - パターン2(外国語文献向け)
+
 [1]Y.Yokoha.(2026).“YOKOSTA | Y.Yokoha Studio Site”  
 https://yokonoha.github.io/yokosta  
 
